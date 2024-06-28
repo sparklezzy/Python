@@ -1,4 +1,4 @@
 # Python
 curso de Python 
-brocolis ficticio
+brocolis ficticio (0.1)
 
